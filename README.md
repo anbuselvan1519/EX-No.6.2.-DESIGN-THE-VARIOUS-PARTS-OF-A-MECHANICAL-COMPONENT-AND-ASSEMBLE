@@ -1,4 +1,7 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
+
+## Name: Anbuselvan S
+## Reg no: 212223240008
 ## DATE:
 
 ## AIM: 
@@ -48,6 +51,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+![400195414-0b8dc66d-6eea-4eb9-bead-9edcfd9baadb](https://github.com/user-attachments/assets/5141eaff-421e-439a-8bec-10dcca8d1a5d)
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
